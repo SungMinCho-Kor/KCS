@@ -13,7 +13,15 @@
 | <img src="https://github.com/Korea-Certified-Store/iOS/assets/62226667/e787218a-0bd0-43c0-9279-38638c12e913" width="150" height="150"/> | <img src="https://github.com/Korea-Certified-Store/iOS/assets/62226667/6510f4ca-d1d6-4400-a1c9-551bc8ac6347" width="150" height="150"/> |
 
 ## 🙇🏻‍♀️ 프로젝트 소개
-![image](https://github.com/Korea-Certified-Store/iOS/assets/62226667/402ec922-e7f6-4d0f-8f81-3c5e856d57d0)
+
+<div align=center>
+
+  <img width="700" alt="image" src="https://github.com/Korea-Certified-Store/iOS/assets/62226667/9fc63ac2-ba28-4afc-b626-66ff5d561a49">
+
+|<img width="341" alt="image" src="https://github.com/Korea-Certified-Store/iOS/assets/62226667/d9304879-b441-499b-8a99-515daae3fceb">|<img width="340" alt="image" src="https://github.com/Korea-Certified-Store/iOS/assets/62226667/3f392fc3-98f5-49ba-bf0a-0f97b779a6d9">|<img width="339" alt="image" src="https://github.com/Korea-Certified-Store/iOS/assets/62226667/5860276f-dece-4b69-aee9-f91b0f3a853c">|<img width="340" alt="image" src="https://github.com/Korea-Certified-Store/iOS/assets/62226667/82f54621-382f-4198-a4a7-c4052a78acd4">|
+|-|-|-|-|
+
+</div>
 
 ## 🛠️ 기술 스택
 
@@ -32,3 +40,5 @@
 ## 🧱 아키텍처
 
 <img width="800" alt="image" src="https://github.com/Korea-Certified-Store/iOS/assets/62226667/d804b8ac-7b60-4147-a52c-99a46d511258">
+
+## 🧐 기술적 고민
