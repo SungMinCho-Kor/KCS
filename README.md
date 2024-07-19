@@ -10,7 +10,7 @@
 
 | [조성민](https://github.com/SungMinCho-Kor) | [김영현](https://github.com/k2645) |
 | --- | --- |
-| <img src="https://github.com/Korea-Certified-Store/iOS/assets/62226667/e787218a-0bd0-43c0-9279-38638c12e913" width="150" height="150"/> | <img src="https://github.com/Korea-Certified-Store/iOS/assets/62226667/6510f4ca-d1d6-4400-a1c9-551bc8ac6347" width="150" height="150"/> |
+| <img src="https://github.com/SungMinCho-Kor.png" width="150" height="150"/> | <img src="https://github.com/k2645.png" width="150" height="150"/> |
 
 ## 🙇🏻‍♀️ 프로젝트 소개
 
